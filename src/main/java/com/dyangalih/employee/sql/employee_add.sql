@@ -1,0 +1,1 @@
+INSERT INTO `employees` (`id`, `first`, `last`, `age`) VALUES (?,?,?,?)
